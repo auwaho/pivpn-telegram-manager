@@ -56,7 +56,7 @@ Restart=always
 # Restart service after 10 seconds if the dotnet service crashes:
 RestartSec=10
 KillSignal=SIGINT
-SyslogIdentifier=log.antoniocampos
+SyslogIdentifier=log.pivpntgmanager
 User=www-data
 Environment=ASPNETCORE_ENVIRONMENT=Production
 TimeoutStopSec=30
