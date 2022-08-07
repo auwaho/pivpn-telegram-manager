@@ -34,7 +34,7 @@ Get superuser rights and go to the folder with the bot, then run the commands:
 
 ```bash
 $ chmod 777 ./pivpn-telegram-manager
-$ ./pivpn-telegram-maanager
+$ ./pivpn-telegram-manager
 ```
 
 Or to run as a service, first install *systemd* on your server, then create a *.service* file:
