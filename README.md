@@ -20,7 +20,7 @@ $ dotnet publish -c release -r linux-x64 --self-contained
 
 ### 2. Preparation and setup
 
-Upload the publish folder to the server using WinSCP or whatever method you like, and then fill the *config.json* file inside the *publish* folder following this example:
+Upload the *publish* folder to the server using WinSCP or whatever method you like, and then fill the *config.json* file inside the *publish* folder following this example:
 
 | Key | Default | Example | Description |
 | - | - | - | - |
