@@ -47,7 +47,7 @@ The contents of the *pivpn-telegram-manager.service* file:
 
 ```
 [Unit]
-Description=MyService Description
+Description=PiVPN Telegram Manager
 
 [Service]
 WorkingDirectory=/path/to/app/
