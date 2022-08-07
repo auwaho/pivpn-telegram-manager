@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "pivpn_telegram_manager": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
